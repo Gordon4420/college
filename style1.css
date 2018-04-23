@@ -1,0 +1,73 @@
+body {
+	background-image: url(homeimage.jpg);
+	padding:30px;
+}
+
+li {
+	list-style: none;
+	text-align: center;
+	display: inline-block;
+	color: red;
+}
+
+a{
+	color: cyan;
+}
+
+a:hover {
+	color: green;
+
+}
+
+h2 {
+	color: red;
+	background-color: rgba(39, 0, 0, 0.5);
+	text-align: center;
+	border: 1px solid rgb(212, 106, 106);
+	cursor: default;
+}
+
+img {
+	float: right;
+}
+
+footer {
+	clear: both;
+}
+p {
+	text-decoration: underline;
+	line-height: 40px;
+	font-style: italic;
+	font-weight: 400;
+	font-size: 140%;
+	font-family: "Times New Roman, Georgia";
+	text-align: center;
+	color: black;
+}
+
+#div1 {
+	background-color: rgba(225, 0, 0, 0.1);
+}
+
+.webtext {
+	border: 2px dashed rgba(225, 0, 0, 0.1);
+}
+
+footer {
+	text-align: center;
+	color: rgba(225, 225, 225, 0.7);
+}
+
+.active {
+	color: white;
+	font-family: 'Gamja Flower', cursive;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+body {
+	background-color: rgba(21, 5, 5, 0.4);
+	background-image: url(backgroundimage3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding:30px;
+
+}
+
+h2 {
+	text-align: center;
+	color: white; 
+	background-color: rgba(78, 12, 80, 0.5);
+	cursor: default;
+}
+
+p {
+	text-align: center;
+	color: white;
+}
+li {
+	display: inline-block;
+	color: white;
+	cursor: default;
+}
+
+a{
+	color: indigo;
+}
+
+a:hover {
+	color: white;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+}

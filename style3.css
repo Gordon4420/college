@@ -1,0 +1,39 @@
+body {	
+	background-color: grey;
+	background-image: url(backgroundimage4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding:30px;
+}
+
+li {
+	text-align: center;
+	display: inline-block;
+	color: cyan; 
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: pink;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	border: 3px solid blue;
+	background-color: rgba(0, 0, 250, 0.4);
+}
+
+p {
+	text-align: center;
+	color: white;
+	font-family: 'Playfair Display', serif;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+}

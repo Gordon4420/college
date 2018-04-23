@@ -1,0 +1,50 @@
+html {
+	background-image: url(loginimage.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body {
+	padding:30px;
+}
+
+li {
+	text-align: center;
+	display: inline-block;
+	color: cyan;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: purple;
+}
+
+h2 {
+	color: pink;
+	text-decoration: underline;
+}
+
+h3 {
+	color: white;
+}
+
+.boxmodel {
+	color: white;
+	border: 5px solid red;
+	display: inline-block;
+	padding: 5px 20px 5px 20px; /*top right bottom left*/
+	margin: 0px 20px 0px 20px; /*0px (top and bottom) 20px (left and right)*/
+		/* margin: 0px 20px; (equal to above)*/
+} 
+
+p {
+	font-size: 20px;
+	color: white;
+}
+
+span {
+	font-size: 3em;
+}

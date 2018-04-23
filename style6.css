@@ -1,0 +1,21 @@
+html {
+	background-image: url(registerimage.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body {
+	padding: 30px;
+}
+
+li {
+	display: inline-block;
+}
+
+a {
+	color: orange;
+}
+
+a:hover {
+	color: black;
+}
